@@ -1,0 +1,5 @@
+D:\FILE\02_KULIAH\02_KPL\KPL-HappyPaint\HappyPaint\HappyPaint\obj\Debug\HappyPaint.csprojAssemblyReference.cache
+D:\FILE\02_KULIAH\02_KPL\KPL-HappyPaint\HappyPaint\HappyPaint\obj\Debug\HappyPaint.MainWindow.resources
+D:\FILE\02_KULIAH\02_KPL\KPL-HappyPaint\HappyPaint\HappyPaint\obj\Debug\HappyPaint.Properties.Resources.resources
+D:\FILE\02_KULIAH\02_KPL\KPL-HappyPaint\HappyPaint\HappyPaint\obj\Debug\HappyPaint.csproj.GenerateResource.cache
+D:\FILE\02_KULIAH\02_KPL\KPL-HappyPaint\HappyPaint\HappyPaint\obj\Debug\HappyPaint.csproj.CoreCompileInputs.cache
